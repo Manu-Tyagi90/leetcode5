@@ -1,6 +1,9 @@
+![Climbing Stairs](https://github.com/user-attachments/assets/8f2c434d-c593-44a5-84ac-8bd35434abf6)
+
+
 # Climbing Stairs Solution
 
-This repository contains a solution to the "Climbing Stairs" problem on LeetCode. The problem is to find the number of distinct ways to climb to the top of a staircase with `n` steps, where you can either climb 1 or 2 steps at a time.
+This repository contains a solution to the [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) problem on LeetCode. The problem is to find the number of distinct ways to climb to the top of a staircase with `n` steps, where you can either climb 1 or 2 steps at a time.
 
 ## Problem Statement
 
